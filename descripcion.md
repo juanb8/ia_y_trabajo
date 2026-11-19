@@ -3,7 +3,7 @@
 El caso de estudio comprende la ola de despidos masivos,
 la reestructuración corporativa y
 la paralización de contrataciones ocurridas entre 2023 y 2026 en el sector IT y
-en corporaciones tecnológicas globales (Big Tech como Meta, Amazon, Microsoft, Cisco, Intel e eBay).
+en corporaciones tecnológicas globales.
 
 Este fenómeno se examina combinando
 
